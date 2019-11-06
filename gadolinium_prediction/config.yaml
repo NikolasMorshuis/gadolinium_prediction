@@ -1,0 +1,11 @@
+# A list of sequences you want to work with.
+# The names of the files should be as follows:
+# For the first example: {something}_T1.nii.gz
+# Note that the name T1 and T1_KM is required at the moment
+# A name ending on {something}_mask.nii.gz is required as well.
+- T1
+- ADC
+- SWI
+- T2
+- FLAIR
+- T1_KM
