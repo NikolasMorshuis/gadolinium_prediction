@@ -1,9 +1,3 @@
-# Gadolinium prediction
-
-This is the pythoncode that is similar to the code that was used in the paper [Can Virtual Contrast Enhancement in Brain MRI Replace Gadolinium?
-A Feasibility Study](https://journals.lww.com/investigativeradiology/Abstract/publishahead/Can_Virtual_Contrast_Enhancement_in_Brain_MRI.98899.aspx)
-
-
 ## Installation
 In order to install the package, clone this repository by executing the following command in the terminal:
 
