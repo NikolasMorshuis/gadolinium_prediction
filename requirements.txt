@@ -31,7 +31,7 @@ telegram==0.0.1
 torch==1.0.1    
 traceback2==1.4.0    
 unittest2==1.1.0    
-wheel==0.33.4
+wheel==0.38.1
 pyprg==0.1
 pyyaml
 visdom
